@@ -1,0 +1,25 @@
+.div1 {
+    font-size: 1.5em;
+    background: blue;
+    height: 100px;
+}
+
+.div2 {
+    font-size: 2em;
+    background: yellow;
+    height: 100px;
+}
+
+.div3 {
+    font-size: 2.5em;
+    background: green;
+    height: 100px;
+}
+
+.div1:hover, .div2:hover, .div3:hover {
+    font-weight: bold;
+}
+
+.div4 {
+    margin: 50px;
+}
