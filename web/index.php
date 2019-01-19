@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Travis Petersen's Home Page</title>
-        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" type="text/css" href="css/homepage.css">
     </head>
     <body>
         <header>
