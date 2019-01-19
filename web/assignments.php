@@ -8,6 +8,7 @@
         <h1>More Comming Soon!</h1>
         <ul>
             <li><a href="hello.html">Hello World</a></li>
+            <li><a href="index.php">Back to Home Page</a></li>
         </ul>
     </body>
 </html>
