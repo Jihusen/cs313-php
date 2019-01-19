@@ -1,0 +1,24 @@
+.personalInfo {
+    display: flex;
+    justify-content: center;
+}
+
+.personalInfo ul {
+    align-self: flex-end;
+    list-style: none;
+}
+
+table {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding: 10px;
+}
+
+p {
+    margin-left: 2%;
+    margin-top: 5%;
+}
