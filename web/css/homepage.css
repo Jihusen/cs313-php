@@ -3,6 +3,18 @@
     justify-content: center;
 }
 
+.personalInfo ul li:nth-child(odd) {
+    font-family: cursive;
+}
+
+.personalInfo ul li:nth-child(even) {
+    font-family: monospace;
+}
+
+strong {
+    font-family: sans-serif;
+}
+
 ul {
     align-self: flex-end;
     list-style: none;

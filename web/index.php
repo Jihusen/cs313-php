@@ -13,15 +13,9 @@
         <main>
             <div class="personalInfo">
                 <ul>
-                    <li style="font-family: cursive">
-                        <strong style="font-family: sans-serif;">Name:</strong> Travis
-                        Petersen</li>
-                    <li style="font-family: monospace">
-                        <strong style="font-family: sans-serif;">Major:</strong> Web Design 
-                        and Development</li>
-                    <li style="font-family: cursive">
-                        <strong style="font-family: sans-serif;">From:</strong> Fairfield, 
-                        California</li>
+                    <li><strong>Name:</strong> Travis Petersen</li>
+                    <li><strong>Major:</strong> Web Design and Development</li>
+                    <li><strong>From:</strong> Fairfield, California</li>
                 </ul>
                 <img src="images/bowserLeap.jpg" alt="funny small dog picture" />
             </div>
