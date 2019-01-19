@@ -1,4 +1,4 @@
-.personalInfo, footer {
+.personalInfo {
     display: flex;
     justify-content: center;
 }
@@ -23,7 +23,17 @@ p {
     margin-top: 5%;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .footer {
     list-style: none;
     
+}
+
+.footer li {
+    text-align: center;
 }
