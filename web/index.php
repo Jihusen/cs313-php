@@ -76,7 +76,7 @@
         </main>
         
         <footer>
-        
+            <?php include 'modular/footer.php'; ?>
         </footer>        
     </body>
 </html>
