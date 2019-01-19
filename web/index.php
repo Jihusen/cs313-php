@@ -16,7 +16,7 @@
         </header>
         
         <main>
-            <div>
+            <div class="personalInfo">
                 <ul>
                     <li style="font-family: cursive">
                         <strong style="font-family: sans-serif;">Name:</strong> Travis
