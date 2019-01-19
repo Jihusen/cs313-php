@@ -7,7 +7,7 @@
     </head>
     <body>
         <header>
-            <?php include $_SERVER['DOCUMENT_ROOT'] . '/web/modular/header.php'; ?>
+            <?php include 'modular/header.php'; ?>
         </header>
         
         <main>
