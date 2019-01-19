@@ -4,6 +4,8 @@
         <meta charset="utf-8">
         <title>Travis Petersen's Home Page</title>
         <link rel="stylesheet" type="text/css" href="css/homepage.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="js/homepage.js"></script>
     </head>
     <body>
         <header>
@@ -17,7 +19,11 @@
                     <li><strong>Major:</strong> Web Design and Development</li>
                     <li><strong>From:</strong> Fairfield, California</li>
                 </ul>
-                <img src="images/bowserLeap.jpg" alt="funny small dog picture" />
+                <img src="images/bowserLeap.jpg" alt="funny small dog picture" id="dog" />
+                <audio id="barkAudio">
+                    <source src="sounds/puppy-barking_ds.mp3" type="audio/mpeg">
+                    Your browser does not suppor the audio element.
+                </audio>
             </div>
         
             <table>
