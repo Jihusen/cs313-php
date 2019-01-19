@@ -73,6 +73,9 @@
             <blockquote cite="https://www.brainyquote.com/quotes/paul_walker_424421">
                 My philosophy is: If you can't have fun, there's no sense in doing it.
             </blockquote>
+            
+            <p>I like to have fun with puzzles, designs, and capoeira. I teach it on the BYUI campus.
+            I try to be a well rounded individual so that way my inner me and match my outer me.</p>
         </main>
         
         <footer>
