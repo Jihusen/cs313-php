@@ -20,10 +20,6 @@
                     <li><strong>From:</strong> Fairfield, California</li>
                 </ul>
                 <img src="images/bowserLeap.jpg" alt="funny small dog picture" id="dog" />
-                <audio id="barkAudio">
-                    <source src="sounds/puppy-barking_ds.mp3" type="audio/mpeg">
-                    Your browser does not suppor the audio element.
-                </audio>
             </div>
         
             <table>

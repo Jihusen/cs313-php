@@ -5,7 +5,6 @@ $(document).ready(function() {
 });
 
 function bark() {
-    var dogSound = document.GetElementById("barkAudio");
-    
-    dogSound.play();
+    var audio = new Audio('../sounds/puppy-barking_ds.mp3'); 
+    audio.play();
 }
