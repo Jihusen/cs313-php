@@ -7,12 +7,7 @@
     </head>
     <body>
         <header>
-            <h1>Welcome to Travis Petersen's Home Page</h1>            
-            
-            <a href="../teamActivities/index.php">Team Activities</a>
-            <a href="assignments.php">Assignments</a>
-            
-            <hr />
+            <?php include $_SERVER['DOCUMENT_ROOT'] . '/web/modular/header.php'; ?>
         </header>
         
         <main>
