@@ -5,7 +5,7 @@
         <title>Group 6 Week 3 Team Assignment</title>
     </head>
     <body>
-        
+
             <?php
                 echo "<form id='form' method='post' action='submitPhp.php'>";
                     echo "<p>Please enter your name: </p>";
@@ -28,11 +28,11 @@
                     echo "<input type='checkbox' name='continent[]' value='AF'> Africa <br>";
                     echo "<input type='checkbox' name='continent[]' value='AN'> Antarctica <br>";
 
-                    echo "<input type='submit'>";
+                    echo "<input type='submit' name='test' value='test'";
                 echo "</form>";
-            
 
-                
+
+
             ?>
     </body>
 </html>

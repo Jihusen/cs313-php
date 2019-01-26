@@ -1,0 +1,48 @@
+.catalog {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  width: 75%;
+  margin-left: auto;
+
+}
+
+.item {
+  width: 128px;
+  display: flex;
+  flex-flow: column;
+}
+
+.item button {
+  width: 128px;
+  margin-bottom: 10%;
+}
+
+.cart{
+  margin-left: 90%;
+}
+
+.cart a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    list-style: none;
+
+}
+
+.footer li {
+    text-align: center;
+}
+
+@media (max-width: 400px) {
+  .catalog {
+    display: block;
+  }
+}
